@@ -10,4 +10,6 @@ reveal.js@4.0.2
 
 Сбилдить презентацию можно командой:
 
+```
 pandoc -V theme=black -V revealjs-url=https://unpkg.com/reveal.js@4.0.2 -s -t revealjs -o opensourceslides.html opensourceslides.md
+```
