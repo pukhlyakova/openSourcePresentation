@@ -18,8 +18,19 @@ output: revealjs::revealjs_presentation
 * самостоятельное исправление ошибок
 * самостоятельное добавление нового функционала
 
+# <small>Где найти Open Source проекты?</small>
+
+## github
+
+![](pics/github-logo.png)
+
+## gitlab
+
+[<img src="pics/gitlab-logo.png" width="400"/>](pics/gitlab-logo.png)
 
 # <small>Лицензии</small>
+
+
 
 # <small>Примеры Open Source</small>
 

@@ -9,7 +9,7 @@ https://revealjs.com/installation/
 ## Cool pics. It may be useful.
 do it! - https://miro.medium.com/max/536/1*LWNONuXCJ0ONKdh0MOAQWQ.gif
 
-but off - https://miro.medium.com/max/1400/1*vCWTw7sZy52XNjltq03GQw.jpeg
+bit off - https://miro.medium.com/max/1400/1*vCWTw7sZy52XNjltq03GQw.jpeg
 
 Google Love https://1.bp.blogspot.com/-iMwrfZbkhuc/Xu0zVN2YBOI/AAAAAAAAAeI/4i5_y6U0D1MplyHcpoN0wLikyJJMlDb4QCLcBGAsYHQ/s1600/Screen%2BShot%2B2020-06-19%2Bat%2B2.47.18%2BPM.png
 
@@ -22,6 +22,8 @@ https://en.wikipedia.org/wiki/Open_source
 https://opensource.org/osd-annotated
 
 open source guid by github - https://opensource.guide/ (!!!)
+
+
 
 ## The Licenses:
 

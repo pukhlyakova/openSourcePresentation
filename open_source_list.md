@@ -36,7 +36,7 @@ ClickHouse - https://github.com/ClickHouse/ClickHouse
 
 ClickHouse — open source distributed column-oriented DBMS
 
-## Хотите писать код в Фуйсбуке?
+## Хотите писать код в Фейсбуке?
 
 https://github.com/facebook
 
