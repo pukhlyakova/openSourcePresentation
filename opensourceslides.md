@@ -1,12 +1,21 @@
-% Open Source
-% Мария Дель
-% Date
+---
+title: "Open Source"
+author: Мария Дель
+output: revealjs::revealjs_presentation
+---
 
-# Slide 1 title
+# <small>Что такое Open Source?</small>
 
-Some super quickly created demo slides
+## <small>Определение</small>
 
+Открытое программное обеспечение (англ. open-source software) — программное обеспечение с открытым исходным кодом. 
 
-# Slide 2 title
+# <small>Лицензии</small>
 
-Some super quickly created demo slides
+# <small>Примеры Open Source</small>
+
+# <small>Кто разрабатывает Open Source?</small>
+
+# <small>Как присоединиться?</small>
+
+# <small>Как создать что-то свое?</small>
