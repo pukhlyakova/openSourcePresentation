@@ -16,3 +16,6 @@ reveal.js@4.0.2
 ```
 pandoc -V theme=black -V revealjs-url=https://unpkg.com/reveal.js@4.0.2 -s -t revealjs -o opensourceslides.html opensourceslides.md
 ```
+
+Список интересных проектов с открытым исходным кодом можно найти [здесь](https://github.com/pukhlyakova/openSourcePresentation/blob/master/open_source_list.md)
+ или самостоятельно при помощи гугла.
