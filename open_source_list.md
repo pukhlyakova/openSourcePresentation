@@ -74,6 +74,14 @@ terminal - https://github.com/microsoft/Terminal
 
 The new Windows Terminal and the original Windows console host, all in the same place!
 
+## Хотите писать код в Эппл?
+
+https://github.com/apple
+
+Swift - https://github.com/apple/swift
+
+The Swift Programming Language
+
 ## Другие интересные проекты:
 
 https://github.com/gabrielecirulli/2048
@@ -131,5 +139,7 @@ bitcoin - https://github.com/bitcoin/bitcoin
 
 Bitcoin Core integration/staging tree
 
+VTK - https://gitlab.kitware.com/vtk
 
+The Visualization Toolkit
 
