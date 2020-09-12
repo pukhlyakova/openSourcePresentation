@@ -24,10 +24,10 @@ output: revealjs::revealjs_presentation
 ## Вы узнаете
 
 * Что такое Open Source
-* Какие компании создают Open Source продукты
 * Как присоединится к интересному проекту
 * Как создать свой собственный проект
-* Как обнаржить свой код захороненным во льдах
+* Какие начать работать в Яндексе/Google не проходя собеседывания?
+* Как захоронить свой код в Арктике на 1000 лет
 
 # <small>Что такое Open Source?</small>
 
@@ -43,20 +43,11 @@ output: revealjs::revealjs_presentation
 * Вы можете найти наставника
 * Вы можете начать карьеру
 * Вы можете научиться работать в команде
-* Это вдохновляет
+* Это приносит удовольствие и гордость
 
 ## <small>Недостатки</small>
 
-## Как это выглядит?
-
-* Create the repository in remote git server
-* Initialize the local git repository and add the remote repository URL
-* Give access to multiple contributors
-* Each contributor can Clone the repository to the local machine
-* Pull changes when other contributors update the remote repository
-* Push changes to the remote repository
-* Reset Back to the commit history as required
-
+[<img src="pics/net-monet.png" width="800"/>](pics/net-monet.png)
 
 # <small>Где найти Open Source проекты?</small>
 
@@ -104,6 +95,19 @@ output: revealjs::revealjs_presentation
 ## Что выбрать?
 
 
+# <small>Как устроен Open Source проект?</small>
+
+
+
+## Как это выглядит?
+
+* Create the repository in remote git server
+* Initialize the local git repository and add the remote repository URL
+* Give access to multiple contributors
+* Each contributor can Clone the repository to the local machine
+* Pull changes when other contributors update the remote repository
+* Push changes to the remote repository
+* Reset Back to the commit history as required
 
 # <small>Лицензии</small>
 
