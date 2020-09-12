@@ -19,7 +19,7 @@
     ul.task-list{list-style: none;}
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
-  <link rel="stylesheet" href="https://unpkg.com/reveal.js@4.0.2/dist/theme/moon.css" id="theme">
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@4.0.2/dist/theme/solarized.css" id="theme">
 </head>
 <body>
   <div class="reveal">
@@ -31,6 +31,43 @@
 </section>
 
 <section>
+<section id="коротко-обо-мне" class="title-slide slide level1">
+<h1><small>Коротко обо мне</small></h1>
+
+</section>
+<section id="резюме" class="slide level2">
+<h2>Резюме</h2>
+<ul>
+<li>Разработчица в ETH Zürich</li>
+<li>Разработчица в Яндекс.Маркете</li>
+<li>Выпускница ШАД</li>
+<li>Выпускница ТПУ</li>
+</ul>
+</section>
+<section id="мой-open-source" class="slide level2">
+<h2>Мой Open Source</h2>
+<ul>
+<li>CatBoost - <a href="https://github.com/catboost/catboost">github.com/catboost/catboost</a></li>
+<li>HVL - <a href="https://gitlab.com/ethz_hvl/hvl_ccb">gitlab.com/ethz_hvl/hvl_ccb</a></li>
+<li>SCINE Chemoton - <a href="https://scine.ethz.ch/download/">scine.ethz.ch</a></li>
+</ul>
+</section></section>
+<section>
+<section id="о-чем-этот-доклад" class="title-slide slide level1">
+<h1><small>О чем этот доклад?</small></h1>
+
+</section>
+<section id="вы-узнаете" class="slide level2">
+<h2>Вы узнаете</h2>
+<ul>
+<li>Что такое Open Source</li>
+<li>Какие компании создают Open Source продукты</li>
+<li>Как присоединится к интересному проекту</li>
+<li>Как создать свой собственный проект</li>
+<li>Как обнаржить свой код захороненным во льдах</li>
+</ul>
+</section></section>
+<section>
 <section id="что-такое-open-source" class="title-slide slide level1">
 <h1><small>Что такое Open Source?</small></h1>
 
@@ -39,14 +76,31 @@
 <h2><small>Определение</small></h2>
 <p><strong>Открытое программное обеспечение</strong> (англ. open-source software) — программное обеспечение с открытым исходным кодом.</p>
 </section>
-<section id="section" class="slide level2">
-<h2></h2>
+<section id="зачем-мне-это-нужно" class="slide level2">
+<h2><small>Зачем мне это нужно?</small></h2>
 <ul>
-<li>просмотр исходного кода</li>
-<li>проверка на уязвимости</li>
-<li>проверка на скрытое слежение =)</li>
-<li>самостоятельное исправление ошибок</li>
-<li>самостоятельное добавление нового функционала</li>
+<li>Что бы улучшать программы, которыми пользуетесь</li>
+<li>Вы улучшите свои навыки</li>
+<li>Вы найдете друзей по интересам</li>
+<li>Вы можете найти наставника</li>
+<li>Вы можете начать карьеру</li>
+<li>Вы можете научиться работать в команде</li>
+<li>Это вдохновляет</li>
+</ul>
+</section>
+<section id="недостатки" class="slide level2">
+<h2><small>Недостатки</small></h2>
+</section>
+<section id="как-это-выглядит" class="slide level2">
+<h2>Как это выглядит?</h2>
+<ul>
+<li>Create the repository in remote git server</li>
+<li>Initialize the local git repository and add the remote repository URL</li>
+<li>Give access to multiple contributors</li>
+<li>Each contributor can Clone the repository to the local machine</li>
+<li>Pull changes when other contributors update the remote repository</li>
+<li>Push changes to the remote repository</li>
+<li>Reset Back to the commit history as required</li>
 </ul>
 </section></section>
 <section>
@@ -60,8 +114,7 @@
 </section>
 <section id="github-1" class="slide level2">
 <h2>github</h2>
-<p><strong>GitHub</strong> — крупнейший веб-сервис для хостинга IT-проектов и их совместной разработки.</p>
-<p>Веб-сервис основан на системе контроля версий <strong>Git</strong> и разработан на <strong>Ruby on Rails</strong> и <strong>Erlang</strong> компанией <strong>GitHub</strong>. Сервис бесплатен для проектов с открытым исходным кодом и небольших частных проектов.</p>
+<p><strong>GitHub</strong> — крупнейший веб-сервис для хостинга IT-проектов и их совместной разработки. Сервис бесплатен для проектов с открытым исходным кодом и небольших частных проектов.</p>
 </section>
 <section id="github-2" class="slide level2">
 <h2>github</h2>
@@ -78,7 +131,6 @@
 <section id="gitlab-1" class="slide level2">
 <h2>gitlab</h2>
 <p><strong>GitLab</strong> — веб-инструмент жизненного цикла <strong>DevOps</strong> с открытым исходным кодом, представляющий систему управления репозиториями кода для <strong>Git</strong> с собственной вики, системой отслеживания ошибок, <strong>CI/CD</strong> пайплайном и другими функциями.</p>
-<p>Код изначально был написан на <strong>Ruby</strong>, а некоторые его части были позже переписаны на <strong>Go</strong>.</p>
 </section>
 <section id="gitlab-2" class="slide level2">
 <h2>gitlab</h2>
@@ -87,6 +139,17 @@
 <section id="gitlab-3" class="slide level2">
 <h2>gitlab</h2>
 <p><a href="pics/sarah.png"><img src="pics/sarah.png" width="900"/></a></p>
+</section>
+<section id="bitbucket" class="slide level2">
+<h2>bitbucket</h2>
+<p><a href="pics/bitbucket-logo.png"><img src="pics/bitbucket-logo.png" width="400"/></a></p>
+</section>
+<section id="bitbucket-1" class="slide level2">
+<h2>bitbucket</h2>
+<p><a href="pics/bitbucket-interface.png"><img src="pics/bitbucket-interface.png" width="900"/></a></p>
+</section>
+<section id="что-выбрать" class="slide level2">
+<h2>Что выбрать?</h2>
 </section></section>
 <section id="лицензии" class="title-slide slide level1">
 <h1><small>Лицензии</small></h1>
@@ -103,22 +166,42 @@
 
 </section>
 
+<section>
 <section id="как-присоединиться" class="title-slide slide level1">
 <h1><small>Как присоединиться?</small></h1>
 
 </section>
-
+<section id="section" class="slide level2">
+<h2></h2>
+<ul>
+<li>Approach #1: Contribute to something you love</li>
+<li>Approach #2: Specifically seek out beginner-friendly projects</li>
+<li>Approach #3: Stop searching for projects and start searching for bugs.</li>
+<li>Finding good bugs for beginners</li>
+</ul>
+<p>A lot of open source projects label their issues to conveniently track them. A lot of projects use labels like beginner, easy, starter, good first bug, low hanging fruit, bitesize, trivial, easy fix, and new contributor.</p>
+<p>https://medium.com/free-code-camp/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba</p>
+</section></section>
 <section id="как-создать-что-то-свое" class="title-slide slide level1">
 <h1><small>Как создать что-то свое?</small></h1>
 
 </section>
 
 <section>
+<section id="github-archive-program" class="title-slide slide level1">
+<h1><small>GitHub Archive Program</small></h1>
+
+</section>
+<section id="section-1" class="slide level2">
+<h2></h2>
+<p>https://archiveprogram.github.com/</p>
+</section></section>
+<section>
 <section id="ссылки" class="title-slide slide level1">
 <h1><small>Ссылки</small></h1>
 
 </section>
-<section id="section-1" class="slide level2">
+<section id="section-2" class="slide level2">
 <h2></h2>
 <ul>
 <li><a href="https://opensource.guide/">https://opensource.guide/</a></li>

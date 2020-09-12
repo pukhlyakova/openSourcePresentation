@@ -4,19 +4,59 @@ author: Мария Дель
 output: revealjs::revealjs_presentation
 ---
 
+# <small>Коротко обо мне</small>
+
+## Резюме
+
+* Разработчица в ETH Zürich
+* Разработчица в Яндекс.Маркете
+* Выпускница ШАД
+* Выпускница ТПУ
+
+## Мой Open Source
+
+* CatBoost - [github.com/catboost/catboost](https://github.com/catboost/catboost)
+* HVL - [gitlab.com/ethz_hvl/hvl_ccb](https://gitlab.com/ethz_hvl/hvl_ccb)
+* SCINE Chemoton - [scine.ethz.ch](https://scine.ethz.ch/download/)
+
+# <small>О чем этот доклад?</small>
+
+## Вы узнаете
+
+* Что такое Open Source
+* Какие компании создают Open Source продукты
+* Как присоединится к интересному проекту
+* Как создать свой собственный проект
+* Как обнаржить свой код захороненным во льдах
+
 # <small>Что такое Open Source?</small>
 
 ## <small>Определение</small>
 
 **Открытое программное обеспечение** (англ. open-source software) — программное обеспечение с открытым исходным кодом. 
 
-##
+## <small>Зачем мне это нужно?</small>
 
-* просмотр исходного кода
-* проверка на уязвимости
-* проверка на скрытое слежение =)
-* самостоятельное исправление ошибок
-* самостоятельное добавление нового функционала
+* Вы улучшите программы, которые сами используете
+* Вы улучшите свои навыки
+* Вы найдете друзей по интересам
+* Вы можете найти наставника
+* Вы можете начать карьеру
+* Вы можете научиться работать в команде
+* Это вдохновляет
+
+## <small>Недостатки</small>
+
+## Как это выглядит?
+
+* Create the repository in remote git server
+* Initialize the local git repository and add the remote repository URL
+* Give access to multiple contributors
+* Each contributor can Clone the repository to the local machine
+* Pull changes when other contributors update the remote repository
+* Push changes to the remote repository
+* Reset Back to the commit history as required
+
 
 # <small>Где найти Open Source проекты?</small>
 
@@ -26,9 +66,7 @@ output: revealjs::revealjs_presentation
 
 ## github
 
-**GitHub** — крупнейший веб-сервис для хостинга IT-проектов и их совместной разработки.
-
-Веб-сервис основан на системе контроля версий **Git** и разработан на **Ruby on Rails** и **Erlang** компанией **GitHub**. Сервис бесплатен для проектов с открытым исходным кодом и небольших частных проектов.
+**GitHub** — крупнейший веб-сервис для хостинга IT-проектов и их совместной разработки. Сервис бесплатен для проектов с открытым исходным кодом и небольших частных проектов.
 
 ## github
 
@@ -47,8 +85,6 @@ output: revealjs::revealjs_presentation
 
 **GitLab** — веб-инструмент жизненного цикла **DevOps** с открытым исходным кодом, представляющий систему управления репозиториями кода для **Git** с собственной вики, системой отслеживания ошибок, **CI/CD** пайплайном и другими функциями.
 
-Код изначально был написан на **Ruby**, а некоторые его части были позже переписаны на **Go**.
-
 ## gitlab
 
 [<img src="pics/gitlab.png" width="1000"/>](pics/gitlab.png)
@@ -57,9 +93,19 @@ output: revealjs::revealjs_presentation
 
 [<img src="pics/sarah.png" width="900"/>](pics/sarah.png)
 
+## bitbucket
+
+[<img src="pics/bitbucket-logo.png" width="400"/>](pics/bitbucket-logo.png)
+
+## bitbucket
+
+[<img src="pics/bitbucket-interface.png" width="900"/>](pics/bitbucket-interface.png)
+
+## Что выбрать?
+
+
+
 # <small>Лицензии</small>
-
-
 
 # <small>Примеры Open Source</small>
 
@@ -67,7 +113,24 @@ output: revealjs::revealjs_presentation
 
 # <small>Как присоединиться?</small>
 
+##
+
+* Approach #1: Contribute to something you love
+* Approach #2: Specifically seek out beginner-friendly projects
+* Approach #3: Stop searching for projects and start searching for bugs.
+* Finding good bugs for beginners
+
+A lot of open source projects label their issues to conveniently track them. A lot of projects use labels like beginner, easy, starter, good first bug, low hanging fruit, bitesize, trivial, easy fix, and new contributor.
+
+
+https://medium.com/free-code-camp/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba
+
 # <small>Как создать что-то свое?</small>
+
+# <small>GitHub Archive Program</small>
+
+##
+https://archiveprogram.github.com/
 
 # <small>Ссылки</small>
 
