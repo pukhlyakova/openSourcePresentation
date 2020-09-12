@@ -92,12 +92,38 @@ output: revealjs::revealjs_presentation
 
 [<img src="pics/bitbucket-interface.png" width="900"/>](pics/bitbucket-interface.png)
 
-## Что выбрать?
+## Что выбрать для своего проекта?
 
 
 # <small>Как устроен Open Source проект?</small>
 
+## tensorflow
 
+[<img src="pics/tensorflow_files.png" width="900"/>](pics/tensorflow_files.png)
+
+## LICENSE
+
+[<img src="pics/tensorflow_license.png" width="650"/>](pics/tensorflow_license.png)
+
+## README
+
+[<img src="pics/tensorflow_readme.png" width="650"/>](pics/tensorflow_readme.png)
+
+## CONTRIBUTING
+
+[<img src="pics/tensorflow_contributing.png" width="650"/>](pics/tensorflow_contributing.png)
+
+## CODE_OF_CONDUCT
+
+[<img src="pics/tensorflow_code_of_conduct.png" width="650"/>](pics/tensorflow_code_of_conduct.png)
+
+## Issues
+
+[<img src="pics/tensorflow_issues.png" width="950"/>](pics/tensorflow_issues.png)
+
+## Pull requests
+
+[<img src="pics/tensorflow_pulls.png" width="950"/>](pics/tensorflow_pulls.png)
 
 ## Как это выглядит?
 
