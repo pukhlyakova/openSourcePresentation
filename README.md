@@ -9,8 +9,6 @@ https://vk.com/leconf
 ```
 pandoc 2.10.1
 reveal.js 4.0.2
-gifski 2.9.0 
-iMovie 10.1.14
 ```
 
 Сбилдить презентацию можно с помощью команды:
