@@ -42,7 +42,7 @@ https://medium.com/free-code-camp/how-open-source-licenses-work-and-how-to-add-t
 
 https://choosealicense.com/
 https://choosealicense.com/licenses/
-
+https://opensource.guide/legal/#which-open-source-license-is-appropriate-for-my-project
 
 
 

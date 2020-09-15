@@ -24,9 +24,9 @@ output: revealjs::revealjs_presentation
 ## Вы узнаете
 
 * Что такое Open Source
-* Как присоединится к интересному проекту
+* Какие компании разрабатывают Open Source
+* Как присоединится к интересному проекту из Яндекса/Google
 * Как создать свой собственный проект
-* Какие начать работать в Яндексе/Google не проходя собеседывания?
 * Как захоронить свой код в Арктике на 1000 лет
 
 # <small>Что такое Open Source?</small>
@@ -38,7 +38,7 @@ output: revealjs::revealjs_presentation
 ## <small>Зачем мне это нужно?</small>
 
 * Вы улучшите программы, которые сами используете
-* Вы улучшите свои навыки
+* Вы можете многому научится и улучшить свои навыки
 * Вы найдете друзей по интересам
 * Вы можете найти наставника
 * Вы можете начать карьеру
@@ -48,6 +48,10 @@ output: revealjs::revealjs_presentation
 ## <small>Недостатки</small>
 
 [<img src="pics/net-monet.png" width="800"/>](pics/net-monet.png)
+
+# <small>Кто разрабатывает Open Source?</small>
+
+# <small>Примеры Open Source</small>
 
 # <small>Где найти Open Source проекты?</small>
 
@@ -132,21 +136,34 @@ output: revealjs::revealjs_presentation
 
 [<img src="pics/tensorflow_pulls.png" width="950"/>](pics/tensorflow_pulls.png)
 
-## Как это выглядит?
-
-* Create the repository in remote git server
-* Initialize the local git repository and add the remote repository URL
-* Give access to multiple contributors
-* Each contributor can Clone the repository to the local machine
-* Pull changes when other contributors update the remote repository
-* Push changes to the remote repository
-* Reset Back to the commit history as required
-
 # <small>Лицензии</small>
 
-# <small>Кто разрабатывает Open Source?</small>
+## 
 
-# <small>Примеры Open Source</small>
+**Лицензии на ПО с открытым исходным кодом** предоставляют любому лицу разрешение на использование, изменение и совместное использование лицензионного программного обеспечения в любых целях при соблюдении условий сохранения происхождения и открытости программного обеспечения.
+
+## MIT License
+
+```
+The MIT License (MIT)
+Copyright © 2020 <copyright holders>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+```
+
+## BSD
+
+https://medium.com/free-code-camp/how-open-source-licenses-work-and-how-to-add-them-to-your-projects-34310c3cf94
+
+## Apache License 2.0
+
+## GPLv3
+
+# <small>Как выбрать проект?</small>
 
 # <small>Как присоединиться?</small>
 
