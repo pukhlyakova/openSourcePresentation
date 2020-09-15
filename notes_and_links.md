@@ -30,7 +30,20 @@ How to choose the best source code repository - https://bitbucket.org/product/co
 
 ## The Licenses:
 
+Open source licenses grant permission for anybody to use, modify, and share licensed software for any purpose, subject to conditions preserving the provenance and openness of the software. 
+
+Лицензии с открытым исходным кодом предоставляют любому лицу разрешение на использование, изменение и совместное использование лицензионного программного обеспечения в любых целях при соблюдении условий сохранения происхождения и открытости программного обеспечения. 
+
+An open source license protects contributors and users. Businesses and savvy developers won’t touch a project without this protection.
+
+
+
 https://medium.com/free-code-camp/how-open-source-licenses-work-and-how-to-add-them-to-your-projects-34310c3cf94
+
+https://choosealicense.com/
+https://choosealicense.com/licenses/
+
+
 
 
 ## From medium
