@@ -84,6 +84,13 @@ output: revealjs::revealjs_presentation
 
 [<img src="pics/sarah.png" width="900"/>](pics/sarah.png)
 
+## gitlab
+
+* приватные и публичные репозитории бесплатны
+* 40 милионов пользователей
+* 44 милиона репозиториев
+* 
+
 ## bitbucket
 
 [<img src="pics/bitbucket-logo.png" width="400"/>](pics/bitbucket-logo.png)
@@ -137,9 +144,9 @@ output: revealjs::revealjs_presentation
 
 # <small>Лицензии</small>
 
-# <small>Примеры Open Source</small>
-
 # <small>Кто разрабатывает Open Source?</small>
+
+# <small>Примеры Open Source</small>
 
 # <small>Как присоединиться?</small>
 
