@@ -44,7 +44,7 @@ https://choosealicense.com/
 https://choosealicense.com/licenses/
 https://opensource.guide/legal/#which-open-source-license-is-appropriate-for-my-project
 
-
+Сравнительная таблица лицензий - https://choosealicense.com/appendix/#patent-use
 
 ## From medium
 

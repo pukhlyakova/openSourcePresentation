@@ -33,7 +33,7 @@ output: revealjs::revealjs_presentation
 
 ## <small>Определение</small>
 
-**Открытое программное обеспечение** (англ. open-source software) — программное обеспечение с открытым исходным кодом. 
+**Открытое программное обеспечение (ПО)** (англ. open-source software) — программное обеспечение с открытым исходным кодом. 
 
 ## <small>Зачем мне это нужно?</small>
 
@@ -142,6 +142,21 @@ output: revealjs::revealjs_presentation
 
 **Лицензии на ПО с открытым исходным кодом** предоставляют любому лицу разрешение на использование, изменение и совместное использование лицензионного программного обеспечения в любых целях при соблюдении условий сохранения происхождения и открытости программного обеспечения.
 
+## Зачем нужна лицензия?
+
+Ваш программный код по умолчанию находится под исключительным авторским правом. Если вы не включаете лицензию никто другой не может копировать, распространять или изменять вашу работу, не подвергаясь риску изъятия, перетряски или судебного разбирательства. Как только у работы появляются другие авторы, “никто” начинает включать вас.
+
+## Список лицензий
+
+* GNU AGPLv3
+* GNU GPLv3
+* GNU LGPLv3
+* Mozilla Public License 2.0
+* Apache License 2.0
+* MIT License
+* Boost Software License 1.0
+
+
 ## MIT License
 
 ```
@@ -155,13 +170,104 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ```
 
-## BSD
+## MIT License
 
-https://medium.com/free-code-camp/how-open-source-licenses-work-and-how-to-add-them-to-your-projects-34310c3cf94
+Короткая и простая разрешительная лицензия с условиями, требующими только сохранения авторских прав и лицензионных уведомлений. 
+
+## MIT License
+
+* Лицензионный материал можно использованы в коммерческих целях
+* Лицензионный материал может быть изменен и распространен
+* Лицензия не предоставляет никаких гарантий
+* Лицензия включает ограничение ответственности
+* Уведомление об авторских правах
 
 ## Apache License 2.0
 
-## GPLv3
+```
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+   1. Definitions.
+
+      "License" shall mean the terms and conditions for use, reproduction,
+      and distribution as defined by Sections 1 through 9 of this document.
+
+      "Licensor" shall mean the copyright owner or entity authorized by
+      the copyright owner that is granting the License.
+
+      "Legal Entity" shall mean the union of the acting entity and all
+      other entities that control, are controlled by, or are under common
+      control with that entity. For the purposes of this definition,
+      "control" means (i) the power, direct or indirect, to cause the
+      direction or management of such entity, whether by contract or
+      otherwise, or (ii) ownership of fifty percent (50%) or more of the
+      outstanding shares, or (iii) beneficial ownership of such entity.
+
+      "You" (or "Your") shall mean an individual or Legal Entity
+      exercising permissions granted by this License.
+
+      "Source" form shall mean the preferred form for making modifications,
+      including but not limited to software source code, documentation
+      source, and configuration files.
+...
+more - https://choosealicense.com/licenses/apache-2.0/
+```
+
+## Apache License 2.0
+
+Разрешительная лицензия, основные условия которой требуют сохранения авторских прав и лицензионных уведомлений.
+
+## Apache License 2.0
+
+* MIT License
+* Не предоставляет прав на товарные знаки
+* Предоставление патентных прав от участников проекта
+* Изменения должны быть задокументированы
+
+## GNU GPLv3
+
+```
+					GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
+
+ Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+
+                            Preamble
+
+  The GNU General Public License is a free, copyleft license for
+software and other kinds of works.
+
+  The licenses for most software and other practical works are designed
+to take away your freedom to share and change the works.  By contrast,
+the GNU General Public License is intended to guarantee your freedom to
+share and change all versions of a program--to make sure it remains free
+software for all its users.  We, the Free Software Foundation, use the
+GNU General Public License for most of our software; it applies also to
+any other work released this way by its authors.  You can apply it to
+your programs, too.
+...
+more - https://choosealicense.com/licenses/gpl-3.0/
+```
+
+## GNU GPLv3
+
+GPLv3 - одна из самых строгих лицензий. Он обеспечивает высокую степень защиты для автора программного обеспечения.
+
+## GNU GPLv3
+
+* Apache License 2.0 ( - товарные знаки)
+* Изменения должны быть выпущены под той же лицензией
+* Исходный код должен быть доступен
+
+## <small>Какую лицензию выбрать?</small>
+
+[<img src="pics/сhoose_license.png" width="900"/>](pics/сhoose_license.png)
 
 # <small>Как выбрать проект?</small>
 
