@@ -51,7 +51,65 @@ output: revealjs::revealjs_presentation
 
 # <small>Кто разрабатывает Open Source?</small>
 
-# <small>Примеры Open Source</small>
+## Yandex
+
+[<img src="pics/yandex-dev.png" width="900"/>](pics/yandex-dev.png)
+
+[yandex.com/dev](https://yandex.com/dev/)
+
+##
+
+[<img src="pics/catboost.png" width="600"/>](pics/catboost.png)
+
+[catboost.ai](https://catboost.ai/)
+
+##
+
+[<img src="pics/ClickHouse.png" width="900"/>](pics/ClickHouse.png)
+
+[clickhouse.tech](https://clickhouse.tech/)
+
+## Google
+
+[<img src="pics/opensource_google.png" width="800"/>](pics/opensource_google.png)
+
+[opensource.google](https://opensource.google/)
+
+##
+
+[<img src="pics/tensorflow.png" width="800"/>](pics/tensorflow.png)
+
+[www.tensorflow.org](https://www.tensorflow.org/)
+
+##
+
+[<img src="pics/go.png" width="800"/>](pics/go.png)
+
+[golang.org](https://golang.org/)
+
+##
+
+[<img src="pics/chromium.png" width="400"/>](pics/chromium.png)
+
+[www.chromium.org](www.chromium.org)
+
+## Facebook
+
+[<img src="pics/facebook.png" width="900"/>](pics/facebook.png)
+
+[opensource.facebook.com](https://opensource.facebook.com/)
+
+##
+
+[<img src="pics/pytorch.jpg" width="900"/>](pics/pytorch.jpg)
+
+[pytorch.org](https://pytorch.org/)
+
+##
+
+[<img src="pics/react.png" width="600"/>](pics/preact.png)
+
+[reactjs.org](https://reactjs.org/)
 
 # <small>Где найти Open Source проекты?</small>
 

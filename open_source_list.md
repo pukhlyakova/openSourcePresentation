@@ -36,6 +36,10 @@ ClickHouse - https://github.com/ClickHouse/ClickHouse
 
 ClickHouse — open source distributed column-oriented DBMS
 
+alice-skills - https://github.com/yandex/alice-skills
+
+Примеры кода навыков для голосового помощника, придуманного в Яндексе
+
 ## Хотите писать код в Фейсбуке?
 
 https://github.com/facebook
