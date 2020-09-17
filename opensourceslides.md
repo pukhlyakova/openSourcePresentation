@@ -35,7 +35,7 @@ output: revealjs::revealjs_presentation
 
 **Открытое программное обеспечение (ПО)** (англ. open-source software) — программное обеспечение с открытым исходным кодом. 
 
-## <small>Зачем мне это нужно?</small>
+## <small>Зачем вам это нужно?</small>
 
 * Вы улучшите программы, которые сами используете
 * Вы можете многому научится и улучшить свои навыки
@@ -111,6 +111,15 @@ output: revealjs::revealjs_presentation
 
 [reactjs.org](https://reactjs.org/)
 
+## Что еще?
+
+* [Linux](github.com/torvalds/linux)
+* [Visual Studio Code](github.com/microsoft/vscode)
+* [scikit-learn](github.com/scikit-learn)
+* [Hadoop](github.com/apache/hadoop)
+* [bitcoin](github.com/bitcoin/bitcoin)
+* [Swift](github.com/torvalds/linux)
+
 # <small>Где найти Open Source проекты?</small>
 
 ## github
@@ -129,6 +138,15 @@ output: revealjs::revealjs_presentation
 
 [<img src="pics/torvalds.png" width="900"/>](pics/torvalds.png)
 
+## github
+
+* приватные и публичные репозитории бесплатны
+* 50 милионов пользователей
+* 100 милиона репозиториев
+* CI/CD
+* Оповещения об уязвимостях в вашем коде
+* Поддержка ревью кода
+* [подробнее](https://github.com/features)
 
 ## gitlab
 
@@ -148,10 +166,15 @@ output: revealjs::revealjs_presentation
 
 ## gitlab
 
+* открытый исходный код
+* можно развернуть свой gitlab сервер
 * приватные и публичные репозитории бесплатны
-* 40 милионов пользователей
-* 44 милиона репозиториев
-* 
+* CI/CD
+* Web IDE
+* Поддержка ревью кода
+* продвинутая работа с Issues
+* [подробнее](https://about.gitlab.com/stages-devops-lifecycle/)
+
 
 ## bitbucket
 
@@ -161,8 +184,17 @@ output: revealjs::revealjs_presentation
 
 [<img src="pics/bitbucket-interface.png" width="900"/>](pics/bitbucket-interface.png)
 
+## bitbucket
+
+* приватные и публичные репозитории бесплатны
+* CI/CD
+* Поддержка ревью кода
+* интеграция с Jira
+* [подробнее](https://bitbucket.org/product/features)
+
 ## Что выбрать для своего проекта?
 
+[<img src="pics/github_vs_gitlab_vs_bitbucket.jpg" width="500"/>](pics/github_vs_gitlab_vs_bitbucket.jpg)
 
 # <small>Как устроен Open Source проект?</small>
 
@@ -326,8 +358,6 @@ GPLv3 - одна из самых строгих лицензий. Он обес�
 ## <small>Какую лицензию выбрать?</small>
 
 [<img src="pics/сhoose_license.png" width="900"/>](pics/сhoose_license.png)
-
-# <small>Как выбрать проект?</small>
 
 # <small>Как присоединиться?</small>
 

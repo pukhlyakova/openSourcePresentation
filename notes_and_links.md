@@ -9,13 +9,6 @@ https://pandoc.org/MANUAL.html
 ## Информация о reveal.js:
 https://revealjs.com/installation/
 
-## Cool pics. It may be useful.
-do it! - https://miro.medium.com/max/536/1*LWNONuXCJ0ONKdh0MOAQWQ.gif
-
-bit off - https://miro.medium.com/max/1400/1*vCWTw7sZy52XNjltq03GQw.jpeg
-
-Google Love https://1.bp.blogspot.com/-iMwrfZbkhuc/Xu0zVN2YBOI/AAAAAAAAAeI/4i5_y6U0D1MplyHcpoN0wLikyJJMlDb4QCLcBGAsYHQ/s1600/Screen%2BShot%2B2020-06-19%2Bat%2B2.47.18%2BPM.png
-
 ## Links:
 
 https://ru.wikipedia.org/wiki/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5
@@ -62,9 +55,13 @@ https://dev.to/zechtyounes/gitlab-vs-github-vs-bitbucket-which-one-deserve-your-
 https://about.gitlab.com/devops-tools/github-vs-gitlab.html
 https://medium.com/@JinnaBalu/git-vs-github-bitbucket-gitlab-1e4c064789a0
 
+В разработке ПО, CI/CD или CICD — это комбинация непрерывной интеграции (CI) и непрерывной доставки или непрерывного развёртывания (CD). CI/CD объединяет разработку, развёртывание и команду, ускоряя процесс сборки, тестирования и развёртывания приложения.
+
+https://seesparkbox.com/foundry/github_vs_gitlab_vs_bitbucket
+
 ### Github
 
-Github has more than 40 million users, including 10 million who joined the platform in 2019. Github represents more than 44 million repositories created last year. And it's more than 20 million issues closed last year. Source - https://octoverse.github.com/.
+Github has more than 50 million users. Github represents more than 100 million repositories (As of August 2019). https://github.com/about
 
 * + You can create private and public repositories for free.
 * + They offers you a pack of services for free if you are a Student.
