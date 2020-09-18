@@ -382,7 +382,17 @@ https://archiveprogram.github.com/
 
 # <small>Ссылки</small>
 
-##
+## <small>Ссылка на презентацию</small>
 
-* [https://opensource.guide/](https://opensource.guide/)
-* [https://ru.wikipedia.org/](https://ru.wikipedia.org/)
+[github.com/pukhlyakova/openSourcePresentation](https://github.com/pukhlyakova/openSourcePresentation)
+
+
+## <small>Этой презентации не было бы без Open Source</small>
+
+* [reveal.js](https://github.com/hakimel/reveal.js/)
+* [pandoc](https://github.com/jgm/pandoc)
+
+
+##
+* [Список Open Source](https://github.com/pukhlyakova/openSourcePresentation/blob/master/open_source_list.md)
+* [Список источников](https://github.com/pukhlyakova/openSourcePresentation/blob/master/open_source_list.md)
