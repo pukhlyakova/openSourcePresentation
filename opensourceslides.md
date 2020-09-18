@@ -378,7 +378,36 @@ https://medium.com/free-code-camp/finding-your-first-open-source-project-or-bug-
 # <small>GitHub Archive Program</small>
 
 ##
-https://archiveprogram.github.com/
+
+[<img src="pics/arctic.jpg" width="950"/>](pics/arctic.jpg)
+
+[archiveprogram.github.com](https://archiveprogram.github.com/)
+
+## The GitHub Arctic Code Vault
+
+GitHub Arctic Code Vault - это хранилище данных, хранящееся на глубине 250 метров в вечной мерзлоте Арктической горы. Архив находится в списанной угольной шахте на архипелаге Шпицберген. GitHub сделает снимок каждого активного публичного репозитория 02.02.2020 года и сохранит эти данные в Arctic Code Vault.
+
+##
+
+[<img src="pics/archiveprogram_team.png" width="950"/>](pics/archiveprogram_team.png)
+
+## <small>Стратегия архивирования кода</small>
+
+* Github
+* GH torrent
+* GH archive
+* Internet archive
+* Software heritage foundation
+* Bodleian library
+* Arctic world archive
+* Project silica from microsoft research
+
+## Как туда попасть?
+
+* публичные GitHub репозитории
+* репозитории с 250 звездами
+* репозитории активные с 02.03.2019-02.02.2020 с 1 звездой
+* репозитории активные с 13.11.2019-02.02.2020
 
 # <small>Ссылки</small>
 
