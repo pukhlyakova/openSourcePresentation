@@ -395,4 +395,4 @@ https://archiveprogram.github.com/
 
 ##
 * [Список Open Source](https://github.com/pukhlyakova/openSourcePresentation/blob/master/open_source_list.md)
-* [Список источников](https://github.com/pukhlyakova/openSourcePresentation/blob/master/open_source_list.md)
+* [Список источников](https://github.com/pukhlyakova/openSourcePresentation/blob/master/links.md)
