@@ -20,4 +20,4 @@ pandoc -V theme=solarized -V revealjs-url=https://unpkg.com/reveal.js@4.0.2 -s -
 Список интересных проектов с открытым исходным кодом можно найти [здесь](https://github.com/pukhlyakova/openSourcePresentation/blob/master/open_source_list.md)
  или самостоятельно при помощи гугла.
 
-Выбрать лицензию можно с помощью [этого гайда](https://choosealicense.com/).
+[Источники и ссылки](https://github.com/pukhlyakova/openSourcePresentation/blob/master/links.md) для чтения.
