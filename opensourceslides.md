@@ -487,6 +487,22 @@ git commit -m "god name for commit"
 
 # <small>Как создать что-то свое?</small>
 
+## <small>Создаем свой первый репозиторий!</small>
+
+[<img src="pics/new-repo-btn.png" width="950"/>](pics/new-repo-btn.png)
+
+##
+
+[<img src="pics/my-first-repo.png" width="650"/>](pics/my-first-repo.png)
+
+##
+
+[<img src="pics/choose-license.png" width="650"/>](pics/choose-license.png)
+
+## YOU DID THIS!
+
+[<img src="pics/ready-for-work.png" width="900"/>](pics/ready-for-work.png)
+
 # <small>GitHub Archive Program</small>
 
 ##
