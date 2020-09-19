@@ -6,7 +6,7 @@
 
 ### Wikipedia:
 
-ru - https://ru.wikipedia.org/wiki/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5
+ru - https://ru.wikipedia.org/wiki/Открытое_программное_обеспечение
 
 en - https://en.wikipedia.org/wiki/Open_source
 
@@ -36,6 +36,21 @@ https://dev.to/zechtyounes/gitlab-vs-github-vs-bitbucket-which-one-deserve-your-
 
 ## Как присоединиться?
 
+Подробный гайд по contribution:
+https://opensource.guide/how-to-contribute/#how-to-submit-a-contribution
+
+Как начать пользоваться github:
+https://docs.github.com/en/github/getting-started-with-github/quickstart
+
+Почитайте про гит:
+https://docs.github.com/en/github/getting-started-with-github/set-up-git
+
+Почитать про Fork:
+https://guides.github.com/activities/forking/
+
+Почитать про бранчи:
+https://guides.github.com/introduction/flow/
+
 Хороший гайд по поиску своего первого бага:
 
 https://medium.com/free-code-camp/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba
@@ -44,14 +59,6 @@ https://medium.com/free-code-camp/finding-your-first-open-source-project-or-bug-
 
 https://medium.com/free-code-camp/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a
 
-Подробный гайд по contribution:
-https://opensource.guide/how-to-contribute/#how-to-submit-a-contribution
-
-Почитать про Fork:
-https://guides.github.com/activities/forking/
-
-Почитать про бранчи:
-https://guides.github.com/introduction/flow/
 
 ## Как захоронить свой код в арктике?
 https://archiveprogram.github.com/
