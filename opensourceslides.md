@@ -35,7 +35,13 @@ output: revealjs::revealjs_presentation
 
 **Открытое программное обеспечение (ПО)** (англ. open-source software) — программное обеспечение с открытым исходным кодом. 
 
-## <small>Зачем вам это нужно?</small>
+## <small>Зачем это нужно компаниям?</small>
+
+* Сотрудничество
+* Заимствование
+* Прозрачность
+
+## <small>Зачем это нужно вам?</small>
 
 * Вы улучшите программы, которые сами используете
 * Вы можете многому научится и улучшить свои навыки
@@ -196,7 +202,15 @@ output: revealjs::revealjs_presentation
 
 [<img src="pics/github_vs_gitlab_vs_bitbucket.jpg" width="500"/>](pics/github_vs_gitlab_vs_bitbucket.jpg)
 
-# <small>Как устроен Open Source проект?</small>
+# <small>Анатомия Open Source проекта</small>
+
+## Люди
+
+* Author
+* Owner
+* Maintainers
+* Contributors
+* Community
 
 ## tensorflow
 
@@ -359,19 +373,117 @@ GPLv3 - одна из самых строгих лицензий. Он обес�
 
 [<img src="pics/сhoose_license.png" width="900"/>](pics/сhoose_license.png)
 
-# <small>Как присоединиться?</small>
+# <small>Как выбрать проект?</small>
 
 ##
 
-* Approach #1: Contribute to something you love
-* Approach #2: Specifically seek out beginner-friendly projects
-* Approach #3: Stop searching for projects and start searching for bugs.
-* Finding good bugs for beginners
+* начните с того, что вам нравится
+* можно начать с поиска опечаток
+* ищите дружелюбные проекты для начинающих
+* не ищите проекты, ищите баги
 
-A lot of open source projects label their issues to conveniently track them. A lot of projects use labels like beginner, easy, starter, good first bug, low hanging fruit, bitesize, trivial, easy fix, and new contributor.
+## Issue label
 
+[<img src="pics/beginner.png" width="500"/>](pics/beginner.png)
 
-https://medium.com/free-code-camp/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba
+* <span style="color: red;">beginner</span>, <span style="color: MAROON;">easy</span>, <span style="color: LIME;">starter</span>, <span style="color: GREEN;">good first bug</span>
+* <span style="color: BLUE;">low hanging fruit</span>, <span style="color: SILVER;">bitesize</span>, <span style="color: TEAL;">trivial</span>
+* <span style="color: PURPLE;">easy fix</span>, and <span style="color: NAVY;">new contributor</span>
+
+##
+
+[<img src="pics/tensorflow_contribute.png" width="1000"/>](pics/tensorflow_contribute.png)
+
+[github.com/tensorflow/tensorflow/contribute](https://github.com/tensorflow/tensorflow/contribute)
+
+##
+
+[<img src="pics/react-contribute.png" width="1000"/>](pics/react-contribute.png)
+
+[github.com/facebook/react/contribute](https://github.com/facebook/react/contribute)
+
+## <small>Прежде чем начать</small>
+
+Важно понять активность проекта:
+
+* есть ли лицензия
+* когда был последний коммит
+* как много людей учавствует в разработке
+* много ли открытых задач
+* быстро ли отвечают мейнтейнеры?
+
+# <small>Вы решились!</small>
+
+## <small>Регистрируемся</small>
+
+* Регестрируемся на Github или GitLab
+* Устанавливаем [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) на свой компьютер
+* Генерируем [SSH key](https://docs.github.com/en/enterprise/2.15/user/articles/adding-a-new-ssh-key-to-your-github-account) и добавляем в свой аккаунт
+
+## <small>Issue</small>
+
+* Создаем Issue
+	* Сообщаем об ошибке
+	* Предлагаем новую функциональность
+* Убеждаемся, что задачу **никто не решает**
+* **Сообщаем**, что собираемся ее решить
+
+## <small>Forking Projects</small>
+
+[<img src="pics/fork-button.png" width="500"/>](pics/fork-button.png)
+[<img src="pics/fork.png" width="500"/>](pics/fork.png)
+
+[подробнее про forking](https://guides.github.com/activities/forking/)
+
+## <small>Clone</small>
+
+```
+git clone git@github.com:pukhlyakova/tensorflow.git
+```
+
+[<img src="pics/clone.png" width="900"/>](pics/clone.png)
+
+## <small>Создаем рабочую ветку</small>
+
+[<img src="pics/create-branch.png" width="900"/>](pics/create-branch.png)
+
+[подробнее про ветки](https://guides.github.com/introduction/flow/)
+
+## <small>Переключаемся на рабочую ветку</small>
+
+```
+git checkout opensource
+Branch 'opensource' set up to track remote branch 'opensource' from 'origin'.
+Switched to a new branch 'opensource'
+```
+
+## <small>Исправляем ошибку</small>
+
+* вносим изменения в код
+* тестируем изменения
+* проверяем код на соответствие стайлгайду
+* коммитим изменения в ветку
+
+```
+git commit -m "god name for commit"
+```
+
+## <small>Создаем Pull Request</small>
+
+[<img src="pics/create-pr.png" width="900"/>](pics/create-pr.png)
+
+[<img src="pics/comparing.png" width="900"/>](pics/comparing.png)
+
+## <small>Указываем ссылку на Issue</small>
+
+[<img src="pics/pr.png" width="800"/>](pics/pr.png)
+
+## <small>Что дальше?</small>
+
+* Вам никто не отвечает =(
+* Вас просят внести изменения
+* Ваш PR не прнят! =(
+* Ваш PR прнят!
 
 # <small>Как создать что-то свое?</small>
 

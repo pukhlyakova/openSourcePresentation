@@ -44,6 +44,15 @@ https://medium.com/free-code-camp/finding-your-first-open-source-project-or-bug-
 
 https://medium.com/free-code-camp/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a
 
+Подробный гайд по contribution:
+https://opensource.guide/how-to-contribute/#how-to-submit-a-contribution
+
+Почитать про Fork:
+https://guides.github.com/activities/forking/
+
+Почитать про бранчи:
+https://guides.github.com/introduction/flow/
+
 ## Как захоронить свой код в арктике?
 https://archiveprogram.github.com/
 
