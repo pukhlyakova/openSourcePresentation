@@ -19,7 +19,7 @@
     ul.task-list{list-style: none;}
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
-  <link rel="stylesheet" href="https://unpkg.com/reveal.js@4.0.2/dist/theme/solarized.css" id="theme">
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@4.0.2/dist/theme/serif.css" id="theme">
 </head>
 <body>
   <div class="reveal">
@@ -62,9 +62,9 @@
 <ul>
 <li>Что такое Open Source</li>
 <li>Какие компании разрабатывают Open Source</li>
-<li>Как присоединиться к интересному проекту из Яндекса/Google</li>
-<li>Как создать свой собственный проект</li>
-<li>Как захоронить свой код в Арктике на 1000 лет</li>
+<li>Как устроены Open Source проекты</li>
+<li>Как присоединиться к интересному проекту от Яндекса / Google</li>
+<li>Как найти свой код захороненным в Арктике на 1000 лет</li>
 </ul>
 </section></section>
 <section>
@@ -76,11 +76,20 @@
 <h2><small>Определение</small></h2>
 <p><strong>Открытое программное обеспечение (ПО)</strong> (англ. open-source software) — программное обеспечение с открытым исходным кодом.</p>
 </section>
+<section id="исходный-код" class="slide level2">
+<h2><small>Исходный код</small></h2>
+<ul>
+<li>доступен для просмотра, изучения и изменения</li>
+<li>можно проверить на наличие уязвимостей</li>
+<li>можно использовать для создания новых программ (если это позволяет лицензия)</li>
+</ul>
+</section>
 <section id="зачем-это-нужно-компаниям" class="slide level2">
 <h2><small>Зачем это нужно компаниям?</small></h2>
 <ul>
 <li>Сотрудничество</li>
-<li>Заимствование</li>
+<li>Обратная связь</li>
+<li>Распространение</li>
 <li>Прозрачность</li>
 </ul>
 </section>
@@ -89,10 +98,9 @@
 <ul>
 <li>Вы улучшите программы, которые сами используете</li>
 <li>Вы можете многому научиться и улучшить свои навыки</li>
-<li>Вы найдете друзей по интересам</li>
-<li>Вы можете найти наставника</li>
 <li>Вы можете начать карьеру</li>
 <li>Вы можете научиться работать в команде</li>
+<li>Вы можете найти друзей или наставника</li>
 <li>Это приносит удовольствие и гордость</li>
 </ul>
 </section>
@@ -190,9 +198,9 @@
 <section id="github-4" class="slide level2">
 <h2>github</h2>
 <ul>
-<li>приватные и публичные репозитории бесплатны</li>
 <li>50 миллионов пользователей</li>
 <li>100 миллионов репозиториев</li>
+<li>приватные и публичные репозитории бесплатны</li>
 <li>CI/CD</li>
 <li>Оповещения об уязвимостях в вашем коде</li>
 <li>Поддержка ревью кода</li>
@@ -475,106 +483,11 @@ more - https://choosealicense.com/licenses/gpl-3.0/</code></pre>
 </ul>
 </section></section>
 <section>
-<section id="вы-решились" class="title-slide slide level1">
-<h1><small>Вы решились!</small></h1>
-
-</section>
-<section id="регистрируемся" class="slide level2">
-<h2><small>Регистрируемся</small></h2>
-<ul>
-<li>Регистрируемся на Github или GitLab</li>
-<li>Устанавливаем <a href="https://git-scm.com/book/en/v2/Getting-Started-Installing-Git">git</a> на свой компьютер</li>
-<li>Генерируем <a href="https://docs.github.com/en/enterprise/2.15/user/articles/adding-a-new-ssh-key-to-your-github-account">SSH key</a> и добавляем в свой аккаунт</li>
-</ul>
-</section>
-<section id="issue" class="slide level2">
-<h2><small>Issue</small></h2>
-<ul>
-<li>Создаем Issue
-<ul>
-<li>Сообщаем об ошибке</li>
-<li>Предлагаем новую функциональность</li>
-</ul></li>
-<li>Убеждаемся, что задачу <strong>никто не решает</strong></li>
-<li><strong>Сообщаем</strong>, что собираемся ее решить</li>
-</ul>
-</section>
-<section id="forking-projects" class="slide level2">
-<h2><small>Forking Projects</small></h2>
-<p><a href="pics/fork-button.png"><img src="pics/fork-button.png" width="500"/></a> <a href="pics/fork.png"><img src="pics/fork.png" width="500"/></a></p>
-<p><a href="https://guides.github.com/activities/forking/">подробнее про forking</a></p>
-</section>
-<section id="clone" class="slide level2">
-<h2><small>Clone</small></h2>
-<pre><code>git clone git@github.com:pukhlyakova/tensorflow.git</code></pre>
-<p><a href="pics/clone.png"><img src="pics/clone.png" width="900"/></a></p>
-</section>
-<section id="создаем-рабочую-ветку" class="slide level2">
-<h2><small>Создаем рабочую ветку</small></h2>
-<p><a href="pics/create-branch.png"><img src="pics/create-branch.png" width="900"/></a></p>
-<p><a href="https://guides.github.com/introduction/flow/">подробнее про ветки</a></p>
-</section>
-<section id="переключаемся-на-рабочую-ветку" class="slide level2">
-<h2><small>Переключаемся на рабочую ветку</small></h2>
-<pre><code>git checkout opensource
-Branch &#39;opensource&#39; set up to track remote branch &#39;opensource&#39; from &#39;origin&#39;.
-Switched to a new branch &#39;opensource&#39;</code></pre>
-</section>
-<section id="исправляем-ошибку" class="slide level2">
-<h2><small>Исправляем ошибку</small></h2>
-<ul>
-<li>вносим изменения в код</li>
-<li>тестируем изменения</li>
-<li>проверяем код на соответствие стайлгайду</li>
-<li>коммитим изменения в ветку</li>
-</ul>
-<pre><code>git commit -m &quot;good name for commit&quot;</code></pre>
-</section>
-<section id="создаем-pull-request" class="slide level2">
-<h2><small>Создаем Pull Request</small></h2>
-<p><a href="pics/create-pr.png"><img src="pics/create-pr.png" width="900"/></a></p>
-<p><a href="pics/comparing.png"><img src="pics/comparing.png" width="900"/></a></p>
-</section>
-<section id="указываем-ссылку-на-issue" class="slide level2">
-<h2><small>Указываем ссылку на Issue</small></h2>
-<p><a href="pics/pr.png"><img src="pics/pr.png" width="800"/></a></p>
-</section>
-<section id="что-дальше" class="slide level2">
-<h2><small>Что дальше?</small></h2>
-<ul>
-<li>Вам никто не отвечает =(</li>
-<li>Вас просят внести изменения</li>
-<li>Ваш PR не принят! =(</li>
-<li>Ваш PR принят!</li>
-</ul>
-</section></section>
-<section>
-<section id="как-создать-что-то-свое" class="title-slide slide level1">
-<h1><small>Как создать что-то свое?</small></h1>
-
-</section>
-<section id="создаем-свой-первый-репозиторий" class="slide level2">
-<h2><small>Создаем свой первый репозиторий!</small></h2>
-<p><a href="pics/new-repo-btn.png"><img src="pics/new-repo-btn.png" width="950"/></a></p>
-</section>
-<section id="section-11" class="slide level2">
-<h2></h2>
-<p><a href="pics/my-first-repo.png"><img src="pics/my-first-repo.png" width="650"/></a></p>
-</section>
-<section id="section-12" class="slide level2">
-<h2></h2>
-<p><a href="pics/choose-license.png"><img src="pics/choose-license.png" width="650"/></a></p>
-</section>
-<section id="you-did-this" class="slide level2">
-<h2>YOU DID THIS!</h2>
-<p><a href="pics/ready-for-work.png"><img src="pics/ready-for-work.png" width="900"/></a></p>
-</section></section>
-<section>
 <section id="github-archive-program" class="title-slide slide level1">
 <h1><small>GitHub Archive Program</small></h1>
 
 </section>
-<section id="section-13" class="slide level2">
+<section id="section-11" class="slide level2">
 <h2></h2>
 <p><a href="pics/arctic.jpg"><img src="pics/arctic.jpg" width="950"/></a></p>
 <p><a href="https://archiveprogram.github.com/">archiveprogram.github.com</a></p>
@@ -583,7 +496,7 @@ Switched to a new branch &#39;opensource&#39;</code></pre>
 <h2>The GitHub Arctic Code Vault</h2>
 <p>GitHub Arctic Code Vault - это хранилище данных, хранящееся на глубине 250 метров в вечной мерзлоте Арктической горы. Архив находится в списанной угольной шахте на архипелаге Шпицберген. GitHub сделает снимок каждого активного публичного репозитория 02.02.2020 года и сохранит эти данные в Arctic Code Vault.</p>
 </section>
-<section id="section-14" class="slide level2">
+<section id="section-12" class="slide level2">
 <h2></h2>
 <p><a href="pics/archiveprogram_team.png"><img src="pics/archiveprogram_team.png" width="950"/></a></p>
 </section></section>
@@ -603,7 +516,7 @@ Switched to a new branch &#39;opensource&#39;</code></pre>
 <li><a href="https://github.com/jgm/pandoc">pandoc</a></li>
 </ul>
 </section>
-<section id="section-15" class="slide level2">
+<section id="section-13" class="slide level2">
 <h2></h2>
 <ul>
 <li><a href="https://github.com/pukhlyakova/openSourcePresentation/blob/master/open_source_list.md">Список Open Source</a></li>
