@@ -125,36 +125,28 @@ Linux - операционная система. Visual Studio Code - редак
 
 ## ВЫ РЕШИЛИСЬ! С ЧЕГО НАЧАТЬ?
 
+Ну ладно, с лицензиями мы разобрались. Давайте разберемся с последним и самым важным вопросом: “С чего начать?”. 
 * начните с того, что вам нравится
-* можно начать с поиска опечаток в README
-* ищите дружелюбные проекты для начинающих
+* можно начать с поиска опечаток в README или не работающих ссылок. Или что-то не задокументировано, а вам кажется, что это очень важно задокументировать, тогда сделайте это! That’s what open source is all about!
+* ищите дружелюбные проекты для начинающих.
+Это означает, что у проекта есть contribution guidelines (CONTRIBUTING.MD), описан процесс настройки проекта и указаны рекомендации по стилю кодирования. У задач есть метки сообщающие о том, что они подходят для начинающих. О метках поговорим ниже. Так же здорово, если в задачах быстро отвечают на вопросы.
 * не ищите проекты, ищите баги
-
-* можно начать с поиска опечаток в README или не работающих ссылок. Или что-то не задукоментированно, а вам кажется, что это очень важно задукоментировать. Вместо того, чтобы игнорировать его и двигаться дальше, или просить кого-то другого исправить его, посмотрите, можете ли вы помочь. That’s what open source is all about!
+Если у вас нет предпочтений по проектам, а просто хочется попрактиковаться или стать частью опенсорса, то можно искать не проекты, а баги. 
+Как искать баги?
+Можно поиском гитхаба, как на картинке. Тут же примеры меток для новичков.
 
 # /contribute
 
-Если вы ищете существующие проблемы, которые можно исправить,каждый проект с открытым исходным кодом имеет страницу / contribute, которая выделяет проблемы, с которыми вы можете начать работу. Navigate to the main page of the repository on GitHub, and add /contribute at the end of the URL (for example https://github.com/facebook/react/contribute).
-
-## <small>Прежде чем начать</small>
-
-Does it have a license?
-When was the latest commit?
-How many contributors does the project have?
-How often do people commit?
-How many open issues are there?
-Do maintainers respond quickly to issues when they are opened?
-Is there active discussion on the issues?
-Are the issues recent?
-Are issues getting closed?
-How many open pull requests are there?
-Do maintainers respond quickly to pull requests when they are opened?
-Is there active discussion on the pull requests?
-Are the pull requests recent?
-Do the maintainers respond helpfully to questions in issues?
-Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?
-Do pull requests get reviewed?
-Do maintainers thank people for their contributions?
+Многие проекты с открытым исходным кодом имеет страницу /contribute, которая выделяет проблемы, с которыми вы можете начать работу. Просто добавьте это слово в конец урла ведущего к репозиторию.
+И последний важный момент - прежде, чем начинать работу, нужно убедится, что проект не заброшен. Есть несколько вещей на которые необходимо обратить внимание:
+* есть ли лицензия
+* когда был последний коммит и как часто люди коммитят
+* размер команды
+* количество открытых задач
+* скорость ответа на вопросы
+* есть ли дискуссия в задачах, насколько новые задачи, закрывают ли задачи
+* много ли пулреквестов в проекте? Быстро ли в них отвечают? Присутствует ли в них дискуссия? На сколько они свежие?
+* на сколько команда дружелюбна? Полезны ли их ответы? Благодарят ли они тех, кто им помогает?
 
 ## The GitHub Arctic Code Vault
 
