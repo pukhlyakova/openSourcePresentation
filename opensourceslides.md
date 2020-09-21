@@ -91,7 +91,7 @@ output: revealjs::revealjs_presentation
 
 [<img src="pics/tensorflow.png" width="800"/>](pics/tensorflow.png)
 
-[www.tensorflow.org](https://www.tensorflow.org/)
+[tensorflow.org](https://www.tensorflow.org/)
 
 ##
 
@@ -103,7 +103,7 @@ output: revealjs::revealjs_presentation
 
 [<img src="pics/chromium.png" width="400"/>](pics/chromium.png)
 
-[www.chromium.org](www.chromium.org)
+[chromium.org](www.chromium.org)
 
 ## Facebook
 
@@ -155,7 +155,7 @@ output: revealjs::revealjs_presentation
 * 50 миллионов пользователей
 * 100 миллионов репозиториев
 * бесплатные приватные и публичные репозитории
-* CI/CD
+* Continuous Integration (CI)
 * Оповещения об уязвимостях в вашем коде
 * Поддержка ревью кода
 * [подробнее](https://github.com/features)
@@ -181,7 +181,7 @@ output: revealjs::revealjs_presentation
 * открытый исходный код
 * можно развернуть свой gitlab сервер
 * бесплатные приватные и публичные репозитории
-* CI/CD
+* Continuous Integration (CI)
 * Web IDE
 * поддержка ревью кода
 * продвинутая работа с Issues
@@ -198,7 +198,7 @@ output: revealjs::revealjs_presentation
 ## bitbucket
 
 * бесплатные приватные и публичные репозитории
-* CI/CD
+* Continuous Integration (CI)
 * поддержка ревью кода
 * интеграция с Jira
 * [подробнее](https://bitbucket.org/product/features)
@@ -211,11 +211,11 @@ output: revealjs::revealjs_presentation
 
 ## Люди
 
-* Author
-* Owner
+* Автор
+* Владелец
 * Maintainers
 * Contributors
-* Community
+* Члены сообщества
 
 ## tensorflow
 
@@ -225,17 +225,33 @@ output: revealjs::revealjs_presentation
 
 [<img src="pics/tensorflow_license.png" width="650"/>](pics/tensorflow_license.png)
 
+## LICENSE
+
+[<img src="pics/tensorflow-apache-license.png" width="600"/>](pics/tensorflow-apache-license.png)
+
 ## README
 
 [<img src="pics/tensorflow_readme.png" width="650"/>](pics/tensorflow_readme.png)
+
+## README
+
+[<img src="pics/tensorflow-open-readme.png" width="800"/>](pics/tensorflow-open-readme.png)
 
 ## CONTRIBUTING
 
 [<img src="pics/tensorflow_contributing.png" width="650"/>](pics/tensorflow_contributing.png)
 
+## CONTRIBUTING
+
+[<img src="pics/contributing-guidelines.png" width="800"/>](pics/contributing-guidelines.png)
+
 ## CODE_OF_CONDUCT
 
 [<img src="pics/tensorflow_code_of_conduct.png" width="650"/>](pics/tensorflow_code_of_conduct.png)
+
+## CODE_OF_CONDUCT
+
+[<img src="pics/tensorflow-code-of-conduct.png" width="800"/>](pics/tensorflow-code-of-conduct.png)
 
 ## Issues
 
