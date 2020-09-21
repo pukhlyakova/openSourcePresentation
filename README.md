@@ -22,3 +22,5 @@ pandoc -V theme=serif -V revealjs-url=https://unpkg.com/reveal.js@4.0.2 -s -t re
 [Источники и ссылки](https://github.com/pukhlyakova/openSourcePresentation/blob/master/links.md) для чтения.
 
 Режиссерская версия на 1 час доступна в ветке [directors_version](https://github.com/pukhlyakova/openSourcePresentation/tree/directors_version).
+
+Про то, как начать работу с GitHub, можно прочитать [здесь](https://docs.github.com/en/github/getting-started-with-github/quickstart).
